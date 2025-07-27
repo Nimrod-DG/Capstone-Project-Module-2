@@ -10,12 +10,6 @@ Hasil akhir berupa **notebook Jupyter**, **dashboard Tableau**, dan **deck prese
 2. [Tujuan Proyek](#tujuan-proyek)  
 3. [Dataset](#dataset)  
 4. [Alur Analisis](#alur-analisis)  
-5. [Insight Utama](#insight-utama)  
-6. [Struktur Repositori](#struktur-repositori)  
-7. [Cara Menjalankan Proyek](#cara-menjalankan-proyek)  
-8. [Dashboard Tableau](#dashboard-tableau)  
-9. [Lisensi & Kredit](#lisensi--kredit)  
-
 ---
 
 ## Latar Belakang
