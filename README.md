@@ -65,13 +65,6 @@ Pertumbuhan bisnis SaaS sangat dipengaruhi oleh **struktur harga, kebijakan disk
 
 ---
 
-## Insight Utama
-1. **Profit Margin ± 20 % tetap stabil** tanpa pola musiman eksplisit; sedikit lonjakan di Agustus‑September & Desember.  
-2. **Segment Enterprise** menyumbang > 40 % total profit dengan margin tertinggi (≈ 23 %).  
-3. Regional **North America** mendominasi penjualan, namun **EMEA** memiliki **margin tertinggi** – peluang ekspansi.  
-4. **Diskon > 20 % justru menekan profit absolut (~–22 % korelasi negatif)**; diskon optimal berkisar 5‑10 %.  
-5. Konversi **produk *Add‑On*** lebih tinggi di segmen Mid‑Market; butuh kampanye bundling.  
-
-> Rekomendasi lengkap dapat dilihat pada slide `presentation.pdf`.
+> Rekomendasi lengkap dapat dilihat pada slide [📑 View Presentation on Canva](https://www.canva.com/design/DAGuWZfF5ss/Elxe7XaNsuGPvbYMEihmhA/edit?utm_content=DAGuWZfF5ss&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)
 
 ---
