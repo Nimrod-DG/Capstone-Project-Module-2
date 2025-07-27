@@ -11,9 +11,6 @@ Tujuan utama: memahami dan mengoptimalkan performa bisnis—terutama profitabili
 Sebagai Data Analyst, kita akan:  
 - Menganalisa bagaimana karakteristik tren penjualan dan profit produk SaaS di berbagai region, segmen pelanggan, dan produk, serta sejauh mana variasi diskon mempengaruhi profit margin.
 
-
-- 
-
 Pertanyaan Analitis:
 - Apakah terdapat pola musiman dalam volume penjualan dan profit SaaS?
 - Region mana yang memberikan kontribusi penjualan dan profit tertinggi?
