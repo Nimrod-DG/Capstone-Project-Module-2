@@ -76,21 +76,34 @@ Pertanyaan Analitis:
 ---
 
 ## 📈 Temuan Utama
-- **Marketing Suite**: consistently negative profit margin; perlu prioritas perbaikan.  
-- **Diskon vs Profit**: korelasi negatif kuat — diskon > 20 % cenderung menurunkan profit tajam.  
-- **Regional Performance**:  
-  - AMER: volume tinggi, margin sedang  
-  - EMEA & APJ: margin rendah/negatif → strategi lokal diperlukan  
-- **Sub‑region & Country**:  
-  - Kanada & Mesir menunjukkan profit positif  
-  - Prancis & Jepang mengalami kerugian signifikan  
-- **Segmentasi**:  
-  - SMB terbesar dari segi jumlah pelanggan, namun margin lebih rendah  
-  - Enterprise & Strategic memberikan sumbangan profit lebih besar  
-- **Customer Highlights**:  
-  - **Profit Leaders**: Apple, UPS, Amazon  
-  - **High‑Frequency but Loss‑Making**: BNP Paribas, Wells Fargo → peluang upsell atau renegosiasi
+Berdasarkan seluruh rangkaian analisis — mulai dari pola musiman, kontribusi regional & subregional, segmentasi pelanggan, kinerja produk, hingga dampak diskon — diperoleh poin‑poin utama berikut:
 
+1. **Pola dan Tren Musiman**  
+   - Tidak ada pola musim yang konsisten pada Sales maupun Profit Margin bulanan; fluktuasi terjadi secara sporadis sepanjang 2020–2023.  
+   - Terdapat kecenderungan margin sedikit lebih tinggi pada Agustus–September dan Desember, serta terendah pada April, Mei, dan Oktober.
+
+2. **Kontribusi Regional & Subregional**  
+   - **EMEA** memimpin total Sales & Profit (≈ \$1.04 M & \$147K), margin rata‑rata 17 %.  
+   - **AMER** memiliki margin tertinggi (≈ 22 %) dengan Sales ≈ \$838K dan Profit ≈ \$127K.  
+   - **APJ** mencatat margin negatif (≈ – 15 %) meski Sales mencapai ≈ \$415K, menyiratkan masalah pricing atau biaya di wilayah ini.  
+   - Subregion **NAMER** & **UKIR** unggul dari sisi margin (> 27 %) dan volume, sedangkan **JAPN** & **ANZ** (APJ) mencetak margin sangat negatif (> – 34 %).
+
+3. **Perbandingan Segmen Pelanggan**  
+   - **Enterprise**: AOV tertinggi (~ \$473) & margin ~ 14.3 %.  
+   - **Strategic**: AOV ~ \$466 & margin ~ 12.1 %.  
+   - **SMB**: AOV terendah (~ \$449) & margin ~ 11.2 %.  
+   - Uji ANOVA menunjukkan perbedaan margin antar segmen tidak signifikan pada α=5 % (p = 0.055), meski secara bisnis Enterprise menonjol.
+
+4. **Kinerja Produk**  
+   - **ContactMatcher** & **Big Ol Database**: Sales tinggi (> \$189K) tetapi margin rendah (≤ 3 %).  
+   - **Alchemy**, **Data Smasher**, **Support**: margin tinggi (25–37 %) dengan volume menengah (≈ \$125–150K).  
+   - **Marketing Suite (standar)**: margin negatif (~ – 3 %) dengan outlier rugi besar.
+
+5. **Dampak Kebijakan Diskon**  
+   - Korelasi **Discount vs Profit Margin** sangat negatif (r = – 0.86), vs Profit juga negatif (r = – 0.22), vs Sales hampir nol (r = – 0.03).  
+   - **Diskon ≤ 16 %**: sales & profit margin paling sehat.  
+   - **Diskon 16–32 %**: margin mulai tertekan, namun profit masih positif.  
+   - **Diskon > 32 %**: menimbulkan lonjakan sales jangka pendek (bin 32–48 %), tetapi profit & margin menjadi negatif.
 ---
 
 ## Rekomendasi
